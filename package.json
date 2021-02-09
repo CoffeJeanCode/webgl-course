@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "canvas-sketch sketch.js --open"
+    "earth": "canvas-sketch earth.js --open",
+    "shader": "canvas-sketch shader.js --open"
   },
   "repository": {
     "type": "git",
